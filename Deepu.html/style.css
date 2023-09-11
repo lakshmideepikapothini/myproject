@@ -1,0 +1,9 @@
+body { 
+    background: url(bg_pic.jpg) no-repeat center center fixed; 
+    background-size: cover;
+    color: aliceblue;
+    margin-top: 75px;
+    padding: 10px;
+  }
+
+  
